@@ -13,7 +13,7 @@ import time
 from collections import namedtuple
 import sys
 # a hack
-sys.path.append('/Users/mimeexu/Desktop/machine_unlearning/')
+sys.path.append('$')
 
 # from ..auc_exp import (
 #     DataInput,
